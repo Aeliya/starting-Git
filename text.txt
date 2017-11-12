@@ -1,1 +1,4 @@
 my first Git file
+feeling good,
+learning new
+going great
