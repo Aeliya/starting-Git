@@ -1,4 +1,23 @@
-my first Git file
-feeling good,
-learning new
-going great
+Very basic codes to start git
+
+cd	-change directory
+cd /X	-change the drive X-drive letter
+/	-specific directry
+~	-home directory
+	 use cd to change / to ~
+ls	-list contents
+cd xxx	-enter directory xxx
+
+clone
+
+first	-configure your git account for our github repository
+	code - git config --global user.name "Git_Username"
+	     - git config --global user.email ****your_email_address
+Now
+-you need the link of your repository from your git account
+-copy the link from there
+-git clone *****paste the link you copied*****
+
+Now, you can use your repository locally.
+
+
