@@ -21,3 +21,23 @@ Now
 Now, you can use your repository locally.
 
 
+-What you can do now is create new file in your working directory for your git
+ and save your work.
+
+For example:
+	-create a filename.txt file and save as usual file
+	
+	-go to git bash and type
+		git add filename.txt
+	
+	-make a comment for your file
+		git commit -m "first commit" text.txt
+
+	-finally, push your file to your repository
+		git push -u origin master
+
+	-to check if any changes is done to your file
+		git status
+
+DONE !!
+
